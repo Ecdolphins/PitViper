@@ -1,3 +1,8 @@
+
+.bottom{
+      background-color:aqua
+}
+
 div{
       background-color:blue;
       
@@ -11,12 +16,17 @@ div{
       border:25px;
       padding:20px;
       background-color:aliceblue;
-      margin-left:25%;
-      margin-right:25%;
-      margin-top:45px;
+      margin-left: 25%;
+      margin-right: 25%;
+      margin-top: 45px;
 }
 p{
 color:aliceblue;
 text-align: center;
-padding-bottom:20px;
+padding-bottom:30px;
+}
+.contact{
+      
+     color:blanchedalmond;
+    
 }
