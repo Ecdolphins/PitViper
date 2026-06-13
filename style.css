@@ -1,6 +1,8 @@
 
-.bottom{
-      background-color:aqua
+ .bottom{
+      text-align:center;
+      color:blue;
+      background-color:blanchedalmond
 }
 
 div{
@@ -20,13 +22,18 @@ div{
       margin-right: 25%;
       margin-top: 45px;
 }
-p{
+.memo{
 color:aliceblue;
 text-align: center;
 padding-bottom:30px;
 }
 .contact{
-      
+      margin-left:45%;
      color:blanchedalmond;
-    
+}
+.mine{
+      color:blue;
+      text-align:center;
+       background-color: blanchedalmond;
+
 }
